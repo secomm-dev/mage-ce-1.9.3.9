@@ -1,0 +1,5 @@
+/magento/media
+!/magento/media/.htaccess
+/magento/var
+!/magento/var/.htaccess
+/magento/app/etc/local.xml
